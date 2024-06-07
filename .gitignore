@@ -1,0 +1,12 @@
+# Ignore build artifacts
+build/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore ESP-IDF configuration
+sdkconfig
+sdkconfig.old
+
+# Ignore .devcontainer if not used
+.devcontainer/
